@@ -1,6 +1,6 @@
 # Peltier_driver_PID
 
-This project is a piece of final year paper in my Engineering degree.  
+This project is a piece of final year paper in my Engineering degree concluded in June 2019.
 
 This is a simple Peltier driver using a MOSFET with two relays in order to invert the current flow and control the heat/cool side:  
 ![alt text](https://github.com/rcharaba/Peltier_driver_PID/blob/master/peltier_driver_circuit.PNG)  
