@@ -1,3 +1,10 @@
+/********************************************************
+ * Peltier Arduino Driver
+ * by Rodrigo Charaba
+ * License: Creative-Commons Attribution Share-Alike
+ * November 2018
+ ********************************************************/
+
 #include <PID_v1.h>
 
 //Porta ligada ao pino IN1 do modulo
