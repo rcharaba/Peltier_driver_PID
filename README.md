@@ -8,3 +8,5 @@ This is a simple Peltier driver using a MOSFET with two relays in order to inver
  
 Also to properly tune the PID, a GUI was implemented in the Arduino code in order to send/receive the PID data:  
 ![alt text](https://github.com/rcharaba/Peltier_driver_PID/blob/master/pid_control.PNG)   
+
+source: https://playground.arduino.cc/Code/PIDLibrary/
